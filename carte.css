@@ -1,0 +1,78 @@
+body{
+    width: 30rem;
+    margin: auto;
+
+}
+.one{
+    padding: 5rem;
+    margin-top: 5rem;
+}
+.bggold{
+    background-color:goldenrod;
+}
+.bggol{
+    background-color:goldenrod;
+    padding:1rem;
+}
+.icon{
+    width: 1rem;
+    height: 1rem;
+    background-color:goldenrod;
+    border-radius: 50%;
+    padding: 0rem -2rem;
+}
+.icon1{
+    width: 2rem;
+    height: 2rem;
+    background-color:rgb(164, 164, 252);
+    border-radius: 50%;
+    padding: 0.25rem;
+}
+.divimg{
+    display: flex;
+    justify-content: center;
+}
+.img{
+    width: 12rem;
+    height: 12rem;
+    border: 2px solid white;
+    border-radius: 50%;
+    margin-top: -5rem;
+}
+.prof{
+    font-size: 1.5rem;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.prof-2{
+    font-size: 1.5rem;
+    text-align: center;
+    color: aliceblue;
+    margin: 0px;
+}
+.bgwhite{
+    padding: 0.5rem;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    font-weight: bolder;
+}
+.down{
+    color: goldenrod;
+}
+.bgdark{
+    background-color: black;
+    padding: 1rem 0rem ;
+}
+.white{
+    color:whitesmoke;
+    font-size:1.25rem;
+    margin:1rem 1.5rem;
+    text-align: center;
+}
+li{
+    color:white;
+    font-size: 1rem;
+}
